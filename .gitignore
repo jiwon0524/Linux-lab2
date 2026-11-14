@@ -10,3 +10,5 @@
 /mmap_file_copy/mmap_file_copy
 /mmap_file_copy/original.txt
 /mmap_file_copy/copied.txt
+/dbus_notification/dbus_server
+/dbus_notification/dbus_client
