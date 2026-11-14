@@ -7,3 +7,6 @@
 /process_ipc/process_ipc
 /pipe_chat/pipe_chat
 /posix_mq_chat/posix_mq_chat
+/mmap_file_copy/mmap_file_copy
+/mmap_file_copy/original.txt
+/mmap_file_copy/copied.txt
