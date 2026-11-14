@@ -12,3 +12,21 @@
 /mmap_file_copy/copied.txt
 /dbus_notification/dbus_server
 /dbus_notification/dbus_client
+# 컴파일 결과
+*.o
+*.out
+mini_shell/mini_shell
+
+# 임시 파일
+*.bak
+*~
+
+# 미니 셸 테스트 결과
+mini_shell/output.txt
+mini_shell/copied.txt
+mini_shell/pipe_result.txt
+mini_shell/multi_result.txt
+
+# Python 캐시
+__pycache__/
+*.pyc
